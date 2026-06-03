@@ -1,0 +1,4 @@
+node_modules/
+.playwright-cli/
+*.csv
+.claude/settings.local.json
