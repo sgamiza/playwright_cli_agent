@@ -1,0 +1,13 @@
+node_modules/
+.playwright-cli/
+*.csv
+.claude/settings.local.json
+wiki.md
+delete-faves.local.js
+
+# Local full notes / version history (not on GitHub)
+README.local.md
+
+# local Chinese notes / version history — not on GitHub
+README.LOCAL.md
+版本记录.md
